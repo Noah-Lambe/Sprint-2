@@ -1,0 +1,86 @@
+[
+    {
+        "brand": "Timex",
+        "name": "Easy Reader",
+        "reference number": "TW2R23300",
+        "material": "Brass",
+        "movement type": "Quartz",
+        "strap type": "Bracelet",
+        "case size": "38 milimeters",
+        "price": "$79.00 CAD",
+        "last sold": "11/10/2023",
+        "on hand": 27
+    },
+    {
+        "brand": "Rolex",
+        "name": "Datejust",
+        "reference number": "126334",
+        "material": "Oystersteel and white gold",
+        "movement type": "Perpetual, mechanical",
+        "strap type": "Oyster bracelet",
+        "size": "41 milimeters",
+        "price": "$13,250.00 CAD",
+        "last sold": "07/15/2022",
+        "on hand": 1
+    },
+    {
+        "brand": "Patek Phillipe",
+        "name": "Celestial",
+        "reference number": "6102P",
+        "material": "Platinum",
+        "movement type": "Automatic",
+        "strap type": "Aligator strap",
+        "size": "44 milimeters",
+        "price": "$495,000.00 CAD",
+        "last sold": "03/25/2021",
+        "on hand": 0
+    },
+    {
+        "brand": "Casio",
+        "name": "A158W-1",
+        "reference number": "A158W-1",
+        "material": "Stainless steel",
+        "movement type": "Quartz",
+        "strap type": "Bracelet",
+        "size": "36 milimeters",
+        "price": "$32.84 CAD",
+        "last sold": "06/30/2024",
+        "on hand": 143
+    },
+    {
+        "brand": "Cartier",
+        "name": "Tank Must",
+        "reference number": "WSTA0109",
+        "material": "Steel",
+        "movement type": "high autonomy quartz",
+        "strap type": "calfskin strap",
+        "size": "34 milimeter",
+        "price": "$4,600.00 CAD",
+        "last sold": "02/14/2024",
+        "on hand": 5
+    },
+    {
+        "brand": "Seiko",
+        "name": "SRPD83",
+        "reference number": "4R36",
+        "material": "Stainless steel",
+        "movement type": "Automatic",
+        "strap type": "Nylon Strap",
+        "size": "42 milimeter",
+        "price": "$425.00 CAD",
+        "last sold": "03/25/2022",
+        "on hand": 45
+    },
+    {
+        "brand": "Omega",
+        "name": "Speedmaster",
+        "reference number": "310.32.42.50.01.001",
+        "material": "Steel",
+        "movement type": "Manual",
+        "strap type": "Nylon Strap",
+        "size": "42 milimeter",
+        "price": "$9,000.00 CAD",
+        "last sold": "01/17/2023",
+        "on hand": 0
+    }
+]
